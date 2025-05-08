@@ -1,5 +1,5 @@
 
-//Without Library 
+#Without Library 
 import numpy as np
 
 image = np.array([
